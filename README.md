@@ -1,3 +1,3 @@
 # BA_MelissaPR
 
-This repository is my Business Analytics repository. 
+This repository has my Business Analytics projects. 
